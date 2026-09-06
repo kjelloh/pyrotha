@@ -7,6 +7,14 @@ The namne is a word play on the greek word 'phyros' menaing 'fire' and 'Tha' whi
 
 Also see ['cpptha'(https://github.com/kjelloh/cpptha)] for an attempt to define a C++ meta language based on the 'Tha' type system data model idea.
 
+# LICENCE
+
+All documentation is licenced as CC0 1.0 Universal as defined in LICENCE file in top folder 'docs' - [Documentation Licence](./LICENCE.txt)
+
+All source code is licenced as GNU GENERAL PUBLIC LICENSE Version 2, June 1991 as defined in LICENCE file in top folder 'src' - [Source Code Licence](../src/LICENCE.txt)
+
+The goal of the licencing model is to maximise spread and engagement and aim for eventual convergance to a single shared interplanetary peristent data model.
+
 # The PyroTha four meta tier design
 
 The PyroTha model four meta-tiers. Each tier model objetcs that act as constructors for objects on the meta-tier below it.

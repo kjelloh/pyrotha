@@ -1,9 +1,4 @@
-# pyrotha
-
-A seed for the shared intraplanetary peristent data model based on the 4 meta-tier Tha model.
-
-* [thinking](./docs/thinking.md)
-* [README](./docs/README.md)
+# pyrotha licences
 
 All documentation is licenced as CC0 1.0 Universal as defined in LICENCE file in top folder 'docs' - [Documentation Licence](./docs/LICENCE.txt)
 
