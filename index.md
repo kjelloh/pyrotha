@@ -1,6 +1,8 @@
 # pyrotha
 
-A seed for the shared intraplanetary peristent data model based on the 4 meta-tier Tha model.
+A seed for the shared interplanetary peristent data model based on the 4 meta-tier Tha model.
+
+It aims to be an application of the abstract ideal [eidotha](https://kjelloh.github.io/eidotha/)
 
 * [thinking](./docs/thinking.md)
 * [README](./docs/README.md)
